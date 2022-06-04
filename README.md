@@ -1,5 +1,4 @@
 # NavieBayes-MNIST
-naivebayes_mnist
 I implemented a Naive Bayes classifier form scratch and applied it on MNIST dataset.
 
 The overall error is 18.51% (which is about 81.49% accuracy). The digits 0 and 1 tend to have minimal error rate compare to the other digits, this can be attributed to the fact that the digits 0 and 1 have low variabilities. Generally, people tend to write digits 0 and 1 in the right way.
